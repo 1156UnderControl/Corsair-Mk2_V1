@@ -1,6 +1,6 @@
 [My Computer]
-My Computer = "172.22.11.1"
+My Computer = "169.254.46.69"
 
 [Target]
-Target = "roboRIO-1156-FRC.local"
+Target = "10.11.56.2"
 
