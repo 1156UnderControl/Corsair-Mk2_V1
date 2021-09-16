@@ -114,6 +114,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Team Code/Elapsed Times.vi"/>
 			<Item Name="60percent.vi" Type="VI" URL="../LabVIEW_is_Under_Control.lib/Util/60percent.vi"/>
 			<Item Name="HoodPID.vi" Type="VI" URL="../LabVIEW_is_Under_Control.lib/Util/HoodPID.vi"/>
+			<Item Name="GetDistance.vi" Type="VI" URL="../LabVIEW_is_Under_Control.lib/Util/GetDistance.vi"/>
 		</Item>
 		<Item Name="Team Code" Type="Folder">
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Team Code/Autonomous Independent.vi"/>
